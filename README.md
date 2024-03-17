@@ -1,5 +1,6 @@
 # Lecture Manager
-A full-stack lecture manager app with a frontend built using React and a backend made with Express, JWT, MongoDB, and Mongoose. (Collectively known as MERN Stack)
+
+A full-stack lecture manager app with a frontend built using React and a backend made with Express and MongoDB. (Collectively known as MERN Stack)
 
 The documentation for this projects is available [here](https://caganseyrek.github.io/repos/lecture-manager)
 
